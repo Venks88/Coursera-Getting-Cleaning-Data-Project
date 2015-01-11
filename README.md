@@ -1,9 +1,12 @@
 # Coursera-Getting-Cleaning-Data-Project
+#=========================================
+
 All the files associated with the Coursera Getting and Cleaning Course, for the Project to be submitted.
 
 The data set being considered is: Human Activity Recognition Using Smartphones
 
-Files
+#Files
+#======
 
 The code takes for granted all the data is present in the same folder, un-compressed and without names altered.
 
